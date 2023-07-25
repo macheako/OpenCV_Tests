@@ -1,0 +1,5 @@
+#pragma once
+
+#define OPENCV_TEST 1
+#define FINDING_CONTOURS 0
+#define CREATING_BOUNDING_BOXES 0
